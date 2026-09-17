@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ULIM</string>
+
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+
+    <string name="tab_logare">Вход</string>
+    <string name="tab_formular">Форма</string>
+    <string name="tab_afisare">Просмотр</string>
+
+    <string name="login_title">Добро пожаловать!</string>
+    <string name="login_subtitle">Войдите, чтобы продолжить</string>
+    <string name="username">Пользователь</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_error">Неверный пользователь или пароль</string>
+    <string name="login_success">Успешный вход!</string>
+    <string name="demo_credentials">Демо: admin / admin123</string>
+    <string name="not_logged_in">Сначала войдите</string>
+    <string name="logout_label">Выйти</string>
+
+    <string name="form_title">Форма</string>
+    <string name="field_nume">Фамилия</string>
+    <string name="field_prenume">Имя</string>
+    <string name="field_data_nastere">Дата рождения</string>
+    <string name="field_foto">Фото</string>
+    <string name="add_photo">Добавить фотографию</string>
+    <string name="change_photo">Изменить фотографию</string>
+    <string name="field_lista_studii">Образование</string>
+    <string name="studii_superioare">Высшее</string>
+    <string name="studii_medii">Среднее</string>
+    <string name="field_gen">Пол</string>
+    <string name="gen_feminin">Женский</string>
+    <string name="gen_masculin">Мужской</string>
+    <string name="field_specialitatea">Специальность</string>
+    <string name="spec_informatica">Информатика</string>
+    <string name="spec_tehnologii">Технологии</string>
+    <string name="continue_button">Далее</string>
+    <string name="field_required">Обязательное поле</string>
+    <string name="incomplete_warning">Заполните все поля формы</string>
+    <string name="date_ok">ОК</string>
+    <string name="date_cancel">Отмена</string>
+    <string name="date_select">Выберите дату</string>
+
+    <string name="display_title">Просмотр</string>
+    <string name="save_button">Сохранить</string>
+    <string name="save_success">Данные сохранены в базе данных!</string>
+    <string name="back_home">Вернуться на главную</string>
+    <string name="empty_display">Нет данных для отображения. Заполните форму.</string>
+    <string name="not_selected">—</string>
+</resources>

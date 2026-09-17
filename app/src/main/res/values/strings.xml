@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ULIM</string>
+
+    <!-- Language names (kept identical in every locale) -->
+    <string name="lang_ro">Română</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+
+    <!-- Bottom navigation -->
+    <string name="tab_logare">Logare</string>
+    <string name="tab_formular">Formular</string>
+    <string name="tab_afisare">Afișare</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Bine ați venit!</string>
+    <string name="login_subtitle">Conectați-vă pentru a continua</string>
+    <string name="username">Utilizator</string>
+    <string name="password">Parolă</string>
+    <string name="login_button">Logare</string>
+    <string name="login_error">Parolă sau utilizator incorect</string>
+    <string name="login_success">Conectat cu succes!</string>
+    <string name="demo_credentials">Demo: admin / admin123</string>
+    <string name="not_logged_in">Conectați-vă mai întâi</string>
+    <string name="logout_label">Deconectare</string>
+
+    <!-- Form screen -->
+    <string name="form_title">Formular</string>
+    <string name="field_nume">Nume</string>
+    <string name="field_prenume">Prenume</string>
+    <string name="field_data_nastere">Data nașterii</string>
+    <string name="field_foto">Foto</string>
+    <string name="add_photo">Adăugați o fotografie</string>
+    <string name="change_photo">Schimbați fotografia</string>
+    <string name="field_lista_studii">Lista studii</string>
+    <string name="studii_superioare">Superioare</string>
+    <string name="studii_medii">Medii</string>
+    <string name="field_gen">Gen</string>
+    <string name="gen_feminin">Feminin</string>
+    <string name="gen_masculin">Masculin</string>
+    <string name="field_specialitatea">Specialitatea</string>
+    <string name="spec_informatica">Informatica</string>
+    <string name="spec_tehnologii">Tehnologii</string>
+    <string name="continue_button">Continuare</string>
+    <string name="field_required">Câmp obligatoriu</string>
+    <string name="incomplete_warning">Completați toate câmpurile formularului</string>
+    <string name="date_ok">OK</string>
+    <string name="date_cancel">Anulare</string>
+    <string name="date_select">Selectați data</string>
+
+    <!-- Display screen -->
+    <string name="display_title">Afișare</string>
+    <string name="save_button">Salvare</string>
+    <string name="save_success">Date salvate în baza de date!</string>
+    <string name="back_home">Reveniți în prima pagină</string>
+    <string name="empty_display">Nicio dată de afișat. Completați formularul.</string>
+    <string name="not_selected">—</string>
+</resources>
